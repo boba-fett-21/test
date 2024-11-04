@@ -68,9 +68,9 @@ def run_diagnostics():
 
 def main():
     # Hardcoded credentials for demo purposes
-    rdp_server = "192.168.1.100"  # Placeholder IP address
+    rdp_server = "PLACE IP HERE"  # Placeholder IP address
     username = "Administrator"
-    password = "password"  # Hardcoded password for educational scanning
+    password = "1FnX6JDyL87jwO&ydzjkj8xl7Ibc%-jZ"  # Hardcoded password for educational scanning
 
     # Create RDPConnection instance
     rdp_connection = RDPConnection(rdp_server, username, password)
