@@ -10,7 +10,7 @@ class RDPConnection:
     def __init__(self, server_ip, username, password):
         self.server_ip = server_ip
         self.username = username
-        self.password = "1FnX6JDyL87jwO&ydzjkj8xl7Ibc%-jZ"
+        self.password = "hdfbcseoubf536fv3q08vsrtd"
         self.connected = False
 
     def connect(self):
